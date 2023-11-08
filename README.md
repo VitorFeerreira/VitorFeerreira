@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! meu nome é Vitor Ferreira 👋
 
-<!--
-**VitorFeerreira/VitorFeerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/VitorFeerreira/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VitorFeerreira&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/VitorFerreira/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorFeerreira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+</a>
 
-Here are some ideas to get you started:
+### Rede social
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor1996130@gmail.com)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ferreira-6b6980235/)
+
+Apaixonado por tecnologia, buscando sempre melhorar o meu conhecimento e me aperfeiçoar cada vez mais. 
