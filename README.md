@@ -9,7 +9,7 @@
 
 ### Rede Social
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor1996130@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ferreira-6b6980235/)
 
 Apaixonado por tecnologia, buscando sempre melhorar o meu conhecimento e me aperfeiçoar cada vez mais, com as novas tecnologias. 
