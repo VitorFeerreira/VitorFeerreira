@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorFeerreira&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
 
-### Rede social
+### Rede Social
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor1996130@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ferreira-6b6980235/)
