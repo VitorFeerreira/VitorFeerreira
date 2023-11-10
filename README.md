@@ -14,6 +14,6 @@
   <a href = "vitor1996130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/vitor-ferreira-6b6980235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://www.instagram.com/_vfeereira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></a> 
- 
 </div>
+
 Apaixonado por tecnologia, buscando sempre melhorar o meu conhecimento e me aperfeiçoar cada vez mais, com as novas tecnologias. 
