@@ -1,4 +1,5 @@
 ### Olá! meu nome é Vitor Ferreira 👋
+##
 
 <div>
 <a href="https://github.com/VitorFeerreira/github-readme-stats">
@@ -7,7 +8,7 @@
 </div>
 
 ### Rede Social
-
+##
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitor1996130@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ferreira-6b6980235/)
 
