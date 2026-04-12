@@ -15,5 +15,5 @@
   <a href = "vitor1996130@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-ferreira-6b6980235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
 ---
-
+<div style="display: inline_block"><br>
 Apaixonado por tecnologia, buscando sempre melhorar o meu conhecimento e me aperfeiçoar cada vez mais, com as novas tecnologias.
