@@ -8,12 +8,13 @@
 
 ### 🛠️ Tecnologias que utilizo
 
-<div align="center">
-  <img alt="JavaScript" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="React" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="HTML" height="30" width="40" src="https://githubusercontent.com">
-  <img alt="CSS" height="30" width="40" src="https://githubusercontent.com">
-</div>
+<p align="center">
+  <img src="https://githubusercontent.com" alt="js" width="40" height="30" />
+  <img src="https://githubusercontent.com" alt="react" width="40" height="30" />
+  <img src="https://githubusercontent.com" alt="html" width="40" height="30" />
+  <img src="https://githubusercontent.com" alt="css" width="40" height="30" />
+</p>
+
 
 ---
 
